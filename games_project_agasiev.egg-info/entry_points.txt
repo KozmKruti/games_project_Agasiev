@@ -3,3 +3,4 @@ vd-calc = VD_games.scripts.VD_calc:main
 vd-even = VD_games.scripts.VD_even:main
 vd-games = VD_games.scripts.VD_main:main
 vd-gcd = VD_games.scripts.VD_gcd:main
+vd-progression = VD_games.scripts.VD_progression:main

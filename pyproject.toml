@@ -23,6 +23,7 @@ vd-even = "VD_games.scripts.VD_even:main"
 vd-calc = "VD_games.scripts.VD_calc:main"
 vd-gcd = "VD_games.scripts.VD_gcd:main"
 vd-progression = "VD_games.scripts.VD_progression:main"
+vd-prime = "VD_games.scripts.VD_prime:main"
 
 [tool.ruff]
 line-length = 88
